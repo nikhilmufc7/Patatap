@@ -11,3 +11,10 @@ Howler.js
   Created in the Full stack bootcamp
 
 thanks to https://github.com/Schlenges for the sounds and inspiration
+
+Live Version https://nikhilmufc7.github.io/Patatap/
+
+Beta Version is a work in progress which includes
+1. Sounds recording facility
+2. Disable previous sounds when a new key is pressed
+3. New funky animations
